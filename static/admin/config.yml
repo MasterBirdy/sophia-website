@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: masterbirdy/sophia-website
 
 media_folder: static/assets
 public_folder: assets
